@@ -1,0 +1,48 @@
+<log4j:event logger="com.tyss.log4j.Log4jTest" timestamp="1620451657326" level="TRACE" thread="main">
+<log4j:message><![CDATA[this is the trace msg.....]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.tyss.log4j.Log4jTest" timestamp="1620451657328" level="DEBUG" thread="main">
+<log4j:message><![CDATA[this is the Debug msg......]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.tyss.log4j.Log4jTest" timestamp="1620451657328" level="INFO" thread="main">
+<log4j:message><![CDATA[this is the info msg........]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.tyss.log4j.Log4jTest" timestamp="1620451657328" level="WARN" thread="main">
+<log4j:message><![CDATA[this is the warn msg.........]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.tyss.log4j.Log4jTest" timestamp="1620451657329" level="ERROR" thread="main">
+<log4j:message><![CDATA[this is the error msg........]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.tyss.log4j.Log4jTest" timestamp="1620451657329" level="FATAL" thread="main">
+<log4j:message><![CDATA[this is the fatal msg..........]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.tyss.log4j.Log4jTest" timestamp="1620451730800" level="TRACE" thread="main">
+<log4j:message><![CDATA[this is the trace msg.....]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.tyss.log4j.Log4jTest" timestamp="1620451730802" level="DEBUG" thread="main">
+<log4j:message><![CDATA[this is the Debug msg......]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.tyss.log4j.Log4jTest" timestamp="1620451730802" level="INFO" thread="main">
+<log4j:message><![CDATA[this is the info msg........]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.tyss.log4j.Log4jTest" timestamp="1620451730802" level="WARN" thread="main">
+<log4j:message><![CDATA[this is the warn msg.........]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.tyss.log4j.Log4jTest" timestamp="1620451730802" level="ERROR" thread="main">
+<log4j:message><![CDATA[this is the error msg........]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.tyss.log4j.Log4jTest" timestamp="1620451730802" level="FATAL" thread="main">
+<log4j:message><![CDATA[this is the fatal msg..........]]></log4j:message>
+</log4j:event>
+
